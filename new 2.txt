@@ -1,4 +1,0 @@
- "Name: Your Name" > student.txt
- "Student number: C12345678" >> student.txt
- "Course code: TU000" >> student.txt
-git status
