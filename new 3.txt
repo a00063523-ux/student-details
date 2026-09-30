@@ -1,0 +1,4 @@
+ "Name: "Jayden Byrne" > student.txt
+ "Student number: "A00063523" >> student.txt
+ "Course code: TU865" >> student.txt
+git status
